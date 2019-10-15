@@ -1,0 +1,10 @@
+ofxAruco
+ofxAssets
+ofxCv
+ofxGui
+ofxKinect
+ofxOpenCv
+ofxPS3EyeGrabber
+ofxPoco
+ofxProjectionMapping
+ofxVideoMapping
